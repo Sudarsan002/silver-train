@@ -1,0 +1,6 @@
+let car={
+    name:"Audi",
+    model:"X400",
+    color:"white"
+};
+console.log(Object.keys(car));

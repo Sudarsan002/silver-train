@@ -5,4 +5,5 @@ function Len(arr){
     return a.length;
 
 }
+console.log("hi");
 console.log(Len(arr));
